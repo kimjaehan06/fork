@@ -1,5 +1,5 @@
-package fork;
+package fork_1;
 
 public class Kjh0313 {
-	qwer
+	
 }
